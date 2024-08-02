@@ -1,3 +1,16 @@
+body {
+  background-image: url("./img/bg_calculator.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.calculator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .calc_body {
   height: 19rem;
   width: 11rem;
